@@ -1,5 +1,294 @@
 {
-  "updated_at": "لم يتم إعداد التحديث اليومي بعد",
-  "news": [],
-  "matches": []
+  "updated_at": "الخميس 5 نوفمبر 2026، 13:15 بتوقيت الرياض",
+  "news": [
+    {
+      "category": "السعودية • 5 نوفمبر",
+      "title": "طرح مشروع متعدد الاستخدامات في حي النرجس بالرياض بنظام الشراكة مع القطاع الخاص",
+      "summary": "أطلقت السعودية إجراءات طرح مشروع عقاري متعدد الاستخدامات بالرياض ضمن شراكة تمتد 50 عامًا.",
+      "source": "Reuters / Zawya",
+      "url": "https://www.tradingview.com/news/reuters.com%2C2026-11-05%3Anewsml_Zaw5Wdw9Q%3A0-saudi-arabia-invites-bids-for-50-year-mixed-use-ppp-project-in-riyadh/"
+    },
+    {
+      "category": "السعودية • 4 نوفمبر",
+      "title": "السعودية وسوريا توقعان اتفاقية تعاون بين وزارتي الدفاع",
+      "summary": "أوردت رويترز نقلاً عن وكالة الأنباء السعودية توقيع اتفاقية لتعزيز التعاون الدفاعي بين البلدين.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-syrian-defence-ministries-sign-cooperation-agreement-spa-reports-2026-11-04/"
+    },
+    {
+      "category": "تقنية وأعمال • 5 نوفمبر",
+      "title": "OpenAI تستعد لطرح محتمل في 2027 وفق تصريحات بروكمان",
+      "summary": "قال رئيس الشركة إن غالبية مبيعات OpenAI باتت تأتي من قطاع المؤسسات، مع الاستعداد لطرح محتمل خلال 2027.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/openai-ready-ipo-2027-now-counts-majority-sales-enterprises-brockman-says-2026-11-05/"
+    },
+    {
+      "category": "اقتصاد • 4 نوفمبر",
+      "title": "أسهم وول ستريت تغلق على ارتفاع بعد انتخابات الكونغرس",
+      "summary": "ارتفعت المؤشرات الأمريكية، بينما تعرضت شركات مراكز البيانات لضغوط مع تغير توقعات المستثمرين.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/"
+    },
+    {
+      "category": "أسواق • 5 نوفمبر",
+      "title": "اليورو يتجه إلى مكاسب يومية رابعة مع تراجع أسعار الطاقة",
+      "summary": "تتابع الأسواق تحركات العملات والفائدة في أوروبا واليابان بعد الانتخابات الأمريكية.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-edges-lower-us-election-outcome-cheers-global-markets-2026-11-05/"
+    },
+    {
+      "category": "استثمارات • 3 نوفمبر",
+      "title": "صندوق الاستثمارات العامة يجمع 3 مليارات دولار بتمويل مدعوم من إيطاليا",
+      "summary": "تمويل مرتبط بوكالة ائتمان الصادرات الإيطالية ضمن نشاط الصندوق التمويلي.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-pif-raises-3-billion-italys-credit-export-agency-2026-11-03/"
+    }
+  ],
+  "matches": [
+    {
+      "home": "Milan",
+      "away": "Ferencváros",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Sparta Praha",
+      "away": "Bournemouth",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Hoffenheim",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Lillestrøm",
+      "away": "Viktoria Plzeň",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "N.E.C. Nijmegen",
+      "away": "Omonia",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Levski Sofia",
+      "away": "Jagiellonia",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Lyon",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Anderlecht",
+      "away": "Salzburg",
+      "league": "الدوري الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Aarhus",
+      "away": "Braga",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Atalanta",
+      "away": "Kairat Almaty",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Midtjylland",
+      "away": "Ajax",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Thun",
+      "away": "Hearts",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Crvena Zvezda",
+      "away": "Inter Escaldes",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "KuPS Kuopio",
+      "away": "Gent",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Lincoln Red Imps",
+      "away": "Hajduk Split",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Mjällby",
+      "away": "Borac",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "Freiburg",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "20:45",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "AZ Alkmaar",
+      "away": "Juventus",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Leverkusen",
+      "away": "Marseille",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Celtic",
+      "away": "Beşiktaş",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Hapoel Beer-Sheva",
+      "away": "OFI Crete",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Celta",
+      "away": "Union SG",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Torreense",
+      "away": "Ararat-Armenia",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Sturm Graz",
+      "away": "Celje",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Benfica",
+      "away": "Lech Poznań",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Sunderland",
+      "away": "GNK Dinamo",
+      "league": "الدوري الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/"
+    },
+    {
+      "home": "Monaco",
+      "away": "Nordsjælland",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Copenhagen",
+      "away": "Iberia Tbilisi",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Lugano",
+      "away": "Kauno Žalgiris",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Twente",
+      "away": "Pafos",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Getafe",
+      "away": "Brighton",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Sint-Truidense",
+      "away": "Brann",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Panathinaikos",
+      "away": "CSKA Sofia",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Riga",
+      "away": "Jablonec",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    },
+    {
+      "home": "Universitatea Craiova",
+      "away": "Egnatia",
+      "league": "دوري المؤتمر الأوروبي",
+      "time": "23:00",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures-a/"
+    }
+  ]
 }
