@@ -1,4 +1,4 @@
-name: Download club and league logo images
+name: Download club and league logo images v2
 on:
   workflow_dispatch:
   push:
