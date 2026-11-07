@@ -63,6 +63,13 @@ for code in sorted(set(m['espn'] for m in brief['matches'])):
    if rec and rec.get('strBadge') and save(rec['strBadge'],dest):report['success'].append(name);continue
   except Exception as e:print('Backup failed',name,str(e)[:90])
   report['missing'].append(name)
+# Favorite Saudi club badge from verified ESPN Saudi league roster.
+try:
+ sa_teams=teamlist('sau.1')
+ url=choose('Al Hilal',sa_teams)
+ if url and save(url,folder/'sa.1-alhilal.png'):print('FAVORITE CREST OK: Al Hilal')
+ else:print('FAVORITE CREST MISSING: Al Hilal')
+except Exception as e:print('Favorite badge error:',str(e)[:130])
 # League emblems from ESPN league logo CDN, verified by league code
 for code in codes:
  dest=folder/('league-'+code+'.png')
