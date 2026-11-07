@@ -82,5 +82,20 @@ for code,title in wiki_titles.items():
    if url and save(url,dest):
     report['league_success'].append(code);break
  except Exception as e:print('Wikimedia failed',code,str(e)[:100])
+# Commons files are specifically identified as league marks (not generic page photos).
+commons_files={'eng.1':'Pl-logo-light.svg','esp.1':'LaLiga logo 2023.svg','ita.1':'Serie A.svg','ger.1':'Bundesliga logo.svg','fra.1':"Ligue 1 McDonald's logo.svg"}
+for code,filename in commons_files.items():
+ dest=folder/('league-'+code+'.png')
+ if dest.exists():continue
+ try:
+  q=urllib.parse.urlencode({'action':'query','format':'json','prop':'imageinfo','iiprop':'url','iiurlwidth':'240','titles':'File:'+filename})
+  obj=json.loads(get('https://commons.wikimedia.org/w/api.php?'+q))
+  pages=obj.get('query',{}).get('pages',{})
+  for page in pages.values():
+   for info in page.get('imageinfo',[]):
+    url=info.get('thumburl')
+    if url and save(url,dest):
+     report['league_success'].append(code);break
+ except Exception as e:print('Commons logo failed',code,str(e)[:120])
 (ROOT/'assets'/'logo-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print('RESULT',json.dumps(report,ensure_ascii=False))
