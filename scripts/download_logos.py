@@ -68,5 +68,19 @@ for code in codes:
  dest=folder/('league-'+code+'.png')
  for url in [f'https://a.espncdn.com/i/leaguelogos/soccer/500/{code}.png',f'https://a.espncdn.com/i/leaguelogos/soccer/500-dark/{code}.png']:
   if save(url,dest):report['league_success'].append(code);break
+# Verified league emblems from Wikimedia article thumbnail metadata when ESPN league CDN is unavailable
+wiki_titles={'eng.1':'Premier_League','esp.1':'La_Liga','ita.1':'Serie_A','ger.1':'Bundesliga','fra.1':'Ligue_1'}
+for code,title in wiki_titles.items():
+ dest=folder/('league-'+code+'.png')
+ if dest.exists():continue
+ try:
+  api='https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=300&titles='+urllib.parse.quote(title)
+  obj=json.loads(get(api))
+  pages=obj.get('query',{}).get('pages',{})
+  for p in pages.values():
+   url=p.get('thumbnail',{}).get('source')
+   if url and save(url,dest):
+    report['league_success'].append(code);break
+ except Exception as e:print('Wikimedia failed',code,str(e)[:100])
 (ROOT/'assets'/'logo-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print('RESULT',json.dumps(report,ensure_ascii=False))
