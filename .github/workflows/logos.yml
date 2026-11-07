@@ -6,6 +6,7 @@ on:
       - 'brief.json'
       - 'scripts/download_logos.py'
       - 'scripts/validate_brief.py'
+      - 'scripts/download_news_images.py'
       - '.github/workflows/logos.yml'
 permissions:
   contents: write
@@ -23,6 +24,8 @@ jobs:
         run: python scripts/download_logos.py
       - name: Validate all match crests and league badges
         run: python scripts/validate_brief.py
+      - name: Download source-linked news photos
+        run: python scripts/download_news_images.py
       - name: Commit logo image files
         run: |
           git config user.name "github-actions[bot]"
