@@ -50,5 +50,11 @@
     "Napoli"
   ],
   "missing": [],
-  "league_success": []
+  "league_success": [
+    "esp.1",
+    "fra.1",
+    "eng.1",
+    "ita.1",
+    "ger.1"
+  ]
 }
