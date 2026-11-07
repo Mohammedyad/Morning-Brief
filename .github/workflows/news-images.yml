@@ -1,4 +1,4 @@
-name: Refresh publisher news images
+name: Refresh publisher news images v2
 on:
   workflow_dispatch:
   push:
