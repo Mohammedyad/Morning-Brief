@@ -97,5 +97,16 @@ for code,filename in commons_files.items():
     if url and save(url,dest):
      report['league_success'].append(code);break
  except Exception as e:print('Commons logo failed',code,str(e)[:120])
+# ESPN scoreboard league metadata provides directly attributed league logos.
+for code in codes:
+ dest=folder/('league-'+code+'.png')
+ if dest.exists():continue
+ try:
+  obj=json.loads(get('https://site.api.espn.com/apis/site/v2/sports/soccer/'+code+'/scoreboard?dates=20261108'))
+  for lg in obj.get('leagues',[]):
+   for image in lg.get('logos',[]):
+    if image.get('href') and save(image['href'],dest):
+     report['league_success'].append(code);break
+ except Exception as e:print('ESPN league metadata failed',code,str(e)[:100])
 (ROOT/'assets'/'logo-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print('RESULT',json.dumps(report,ensure_ascii=False))
