@@ -1,296 +1,183 @@
 {
-  "date": "الأحد 8 نوفمبر 2026",
-  "dateISO": "2026-11-08",
-  "updated": "8 نوفمبر 2026 · 01:00 بتوقيت الرياض",
+  "date": "الثلاثاء 10 نوفمبر 2026",
+  "dateISO": "2026-11-10",
+  "updated": "10 نوفمبر 2026 · صباحًا بتوقيت الرياض",
   "matches": [
     {
-      "time": "14:30",
-      "league": "الدوري الإيطالي",
-      "home": "Napoli",
-      "away": "Lazio",
-      "homeAr": "نابولي",
-      "awayAr": "لاتسيو",
-      "espn": "ita.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "20:45",
+      "league": "دوري أبطال أوروبا للسيدات",
+      "home": "هاكن للسيدات",
+      "away": "تشيلسي للسيدات",
+      "homeAr": "هاكن للسيدات",
+      "awayAr": "تشيلسي للسيدات",
+      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
     },
     {
-      "time": "16:00",
-      "league": "الدوري الإسباني",
-      "home": "Elche",
-      "away": "Real Betis",
-      "homeAr": "إلتشي",
-      "awayAr": "ريال بيتيس",
-      "espn": "esp.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "20:45",
+      "league": "دوري أبطال أوروبا للسيدات",
+      "home": "ريال مدريد للسيدات",
+      "away": "باريس إف سي للسيدات",
+      "homeAr": "ريال مدريد للسيدات",
+      "awayAr": "باريس إف سي للسيدات",
+      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإنجليزي",
-      "home": "Brighton",
-      "away": "Brentford",
-      "homeAr": "برايتون",
-      "awayAr": "برينتفورد",
-      "espn": "eng.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "بارنت",
+      "away": "ليتون أورينت",
+      "homeAr": "بارنت",
+      "awayAr": "ليتون أورينت",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإنجليزي",
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "homeAr": "كريستال بالاس",
-      "awayAr": "ليفربول",
-      "espn": "eng.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "بريستول روفرز",
+      "away": "ريدينغ",
+      "homeAr": "بريستول روفرز",
+      "awayAr": "ريدينغ",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإنجليزي",
-      "home": "Ipswich Town",
-      "away": "Bournemouth",
-      "homeAr": "إيبسويتش",
-      "awayAr": "بورنموث",
-      "espn": "eng.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "بيرتون ألبيون",
+      "away": "نوتس كاونتي",
+      "homeAr": "بيرتون ألبيون",
+      "awayAr": "نوتس كاونتي",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإنجليزي",
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "homeAr": "سندرلاند",
-      "awayAr": "تشيلسي",
-      "espn": "eng.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "كرو ألكسندرا",
+      "away": "ويغان",
+      "homeAr": "كرو ألكسندرا",
+      "awayAr": "ويغان",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإيطالي",
-      "home": "Genoa",
-      "away": "AC Milan",
-      "homeAr": "جنوى",
-      "awayAr": "ميلان",
-      "espn": "ita.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "غريمسبي تاون",
+      "away": "نوتنغهام فورست تحت 21",
+      "homeAr": "غريمسبي تاون",
+      "awayAr": "نوتنغهام فورست تحت 21",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الإيطالي",
-      "home": "Monza",
-      "away": "Atalanta",
-      "homeAr": "مونزا",
-      "awayAr": "أتالانتا",
-      "espn": "ita.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "هدرسفيلد",
+      "away": "ليفربول تحت 21",
+      "homeAr": "هدرسفيلد",
+      "awayAr": "ليفربول تحت 21",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
-      "time": "17:00",
-      "league": "الدوري الفرنسي",
-      "home": "Rennes",
-      "away": "Lille",
-      "homeAr": "رين",
-      "awayAr": "ليل",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "17:30",
-      "league": "الدوري الألماني",
-      "home": "FC Cologne",
-      "away": "Bayer Leverkusen",
-      "homeAr": "كولن",
-      "awayAr": "باير ليفركوزن",
-      "espn": "ger.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "18:15",
-      "league": "الدوري الإسباني",
-      "home": "Real Sociedad",
-      "away": "Rayo Vallecano",
-      "homeAr": "ريال سوسيداد",
-      "awayAr": "رايو فاييكانو",
-      "espn": "esp.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:15",
-      "league": "الدوري الفرنسي",
-      "home": "Angers",
-      "away": "Nice",
-      "homeAr": "أنجيه",
-      "awayAr": "نيس",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:15",
-      "league": "الدوري الفرنسي",
-      "home": "Brest",
-      "away": "Lyon",
-      "homeAr": "بريست",
-      "awayAr": "ليون",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:15",
-      "league": "الدوري الفرنسي",
-      "home": "Le Havre",
-      "away": "Lorient",
-      "homeAr": "لوهافر",
-      "awayAr": "لوريان",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:15",
-      "league": "الدوري الفرنسي",
-      "home": "Le Mans",
-      "away": "Monaco",
-      "homeAr": "لومان",
-      "awayAr": "موناكو",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:30",
-      "league": "الدوري الإنجليزي",
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "homeAr": "مانشستر يونايتد",
-      "awayAr": "أستون فيلا",
-      "espn": "eng.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "19:30",
-      "league": "الدوري الألماني",
-      "home": "Freiburg",
-      "away": "Union Berlin",
-      "homeAr": "فرايبورغ",
-      "awayAr": "يونيون برلين",
-      "espn": "ger.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "20:00",
-      "league": "الدوري الإيطالي",
-      "home": "Inter",
-      "away": "Como",
-      "homeAr": "إنتر",
-      "awayAr": "كومو",
-      "espn": "ita.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "20:30",
-      "league": "الدوري الإسباني",
-      "home": "Celta Vigo",
-      "away": "Levante",
-      "homeAr": "سيلتا فيغو",
-      "awayAr": "ليفانتي",
-      "espn": "esp.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "20:30",
-      "league": "الدوري الإسباني",
-      "home": "Villarreal",
-      "away": "Getafe",
-      "homeAr": "فياريال",
-      "awayAr": "خيتافي",
-      "espn": "esp.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "21:30",
-      "league": "الدوري الألماني",
-      "home": "Hoffenheim",
-      "away": "Schalke 04",
-      "homeAr": "هوفنهايم",
-      "awayAr": "شالكه",
-      "espn": "ger.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "22:45",
-      "league": "الدوري الإيطالي",
-      "home": "Fiorentina",
-      "away": "Juventus",
-      "homeAr": "فيورنتينا",
-      "awayAr": "يوفنتوس",
-      "espn": "ita.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
-    },
-    {
-      "time": "22:45",
-      "league": "الدوري الفرنسي",
-      "home": "Lens",
-      "away": "Marseille",
-      "homeAr": "لانس",
-      "awayAr": "مارسيليا",
-      "espn": "fra.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "time": "22:00",
+      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
+      "home": "ليستر سيتي",
+      "away": "والسال",
+      "homeAr": "ليستر سيتي",
+      "awayAr": "والسال",
+      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
     },
     {
       "time": "23:00",
-      "league": "الدوري الإسباني",
-      "home": "Atletico Madrid",
-      "away": "Barcelona",
-      "homeAr": "أتلتيكو مدريد",
-      "awayAr": "برشلونة",
-      "espn": "esp.1",
-      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/08"
+      "league": "دوري أبطال أوروبا للسيدات",
+      "home": "إنتر للسيدات",
+      "away": "مانشستر سيتي للسيدات",
+      "homeAr": "إنتر للسيدات",
+      "awayAr": "مانشستر سيتي للسيدات",
+      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
+    },
+    {
+      "time": "23:00",
+      "league": "دوري أبطال أوروبا للسيدات",
+      "home": "باريس سان جيرمان للسيدات",
+      "away": "بايرن ميونخ للسيدات",
+      "homeAr": "باريس سان جيرمان للسيدات",
+      "awayAr": "بايرن ميونخ للسيدات",
+      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
+    },
+    {
+      "time": "23:00",
+      "league": "دوري أبطال أوروبا للسيدات",
+      "home": "روما للسيدات",
+      "away": "سيرفيت للسيدات",
+      "homeAr": "روما للسيدات",
+      "awayAr": "سيرفيت للسيدات",
+      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
     }
   ],
   "news": [
     {
-      "category": "الرئيسية",
-      "title": "تصعيد في اليمن وسط تقارير عن سقوط ضحايا قرب صنعاء",
-      "summary": "وزارة الصحة التابعة للحوثيين تتهم السعودية بشن غارات أوقعت قتلى؛ رويترز تقول إنها لم تتمكن من التحقق بشكل مستقل، ولم يصدر تعليق سعودي فوري.",
-      "source": "رويترز · 7 نوفمبر",
-      "url": "https://www.reuters.com/world/middle-east/houthi-run-health-ministry-says-airstrikes-it-blames-saudi-arabia-kill-27-near-2026-11-07/"
+      "category": "السعودية",
+      "title": "التحالف يعلن اعتراض صاروخين باتجاه الرياض",
+      "summary": "قال التحالف إنه اعترض صاروخًا باليستيًا وآخر مجنحًا أُطلقا باتجاه العاصمة، بعد تنبيهات من الدفاع المدني.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
     },
     {
-      "category": "الرئيسية",
-      "title": "الأسهم التقنية تتعافى جزئيًا بعد أسبوع مضطرب في وول ستريت",
-      "summary": "ناسداك ارتفع في جلسة الجمعة لكنه سجل خسارته الأسبوعية الرابعة على التوالي، وسط قلق المستثمرين من تقييمات الذكاء الاصطناعي.",
-      "source": "رويترز · 6 نوفمبر",
-      "url": "https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/"
+      "category": "السعودية",
+      "title": "تفقد مبنى أرامكو المتضرر في الرياض",
+      "summary": "نائب أمير منطقة الرياض تفقد مبنى إداريًا متضررًا؛ وأُعلن عن أضرار محدودة دون إصابات.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/"
     },
     {
-      "category": "السعودية والعالم",
-      "title": "سوريا تنفي خطط إرسال قوات إلى اليمن وتؤكد التعاون العسكري مع السعودية",
-      "summary": "مصدر دبلوماسي سوري يقول إن التعاون الحالي يركز على التدريب وتبادل الخبرات، مع إمكان توسيعه لاحقًا.",
-      "source": "رويترز · 7 نوفمبر",
-      "url": "https://www.reuters.com/world/asia-pacific/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen-2026-11-07/"
+      "category": "الطاقة",
+      "title": "حريق محدود بخط أنابيب شرق–غرب دون توقف التشغيل",
+      "summary": "أُخمد حريق بعد هجوم في منطقة المدينة؛ ولم تُسجل إصابات أو انقطاع في تشغيل الخط.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/business/energy/saudi-east-west-oil-pipeline-hit-medina-region-state-media-reports-2026-11-09/"
+    },
+    {
+      "category": "العالم",
+      "title": "تقارير عن تعاون عسكري سوري مع السعودية",
+      "summary": "مسؤولون تحدثوا عن إرسال مستشارين عسكريين سوريين، فيما تقول دمشق إن التعاون يركز على التدريب وتبادل الخبرات.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://apnews.com/article/d436bdc81a8e6b28bb99c417aaeaf8b6"
     },
     {
       "category": "الاقتصاد",
-      "title": "بيركشاير هاثاواي تسرّع إعادة شراء أسهمها",
-      "summary": "الشركة أعادت شراء أسهم بقيمة 9.6 مليار دولار في الربع الثالث، رغم تراجع الأرباح التشغيلية.",
-      "source": "رويترز · 7 نوفمبر",
-      "url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/"
+      "title": "صفقة يابانية بقيمة 11.6 مليار دولار بقطاع الرقائق",
+      "summary": "ميتسوي للكيماويات تعتزم شراء JSR لتعزيز أعمال مواد أشباه الموصلات.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/"
     },
     {
       "category": "التقنية",
-      "title": "منظمات البيئة تستخدم الذكاء الاصطناعي وتحذر من استهلاك مراكز البيانات",
-      "summary": "تقنيات الذكاء الاصطناعي تسرّع حماية الحياة البرية ومراقبة الحرائق، لكن تكلفتها المائية والكهربائية تتزايد.",
-      "source": "رويترز · 7 نوفمبر",
-      "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"
+      "title": "الصين توسع استخدام الأتمتة والذكاء الاصطناعي في الموانئ",
+      "summary": "بكين تستثمر في أنظمة الموانئ الذكية، وسط تساؤلات دولية عن أمن البيانات وسلاسل الإمداد.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/"
+    },
+    {
+      "category": "التقنية",
+      "title": "طفرة مراكز بيانات الذكاء الاصطناعي ترفع الطلب على توربينات مستعملة",
+      "summary": "مشغلو مراكز البيانات يبحثون عن حلول توليد طاقة بديلة وسط طول فترات انتظار المعدات الجديدة.",
+      "source": "رويترز / مصدر الخبر",
+      "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
     }
   ],
   "events": [
     {
-      "date": "الثلاثاء 10 نوفمبر",
-      "title": "مؤشر أسعار المستهلك الأمريكي (CPI)",
-      "source": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-06/"
+      "date": "٩–٢٠ نوفمبر",
+      "title": "مؤتمر المناخ COP31 في أنطاليا",
+      "source": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
     },
     {
-      "date": "الجمعة 13 نوفمبر",
-      "title": "مؤشر أسعار المنتجين الأمريكي (PPI)",
-      "source": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-06/"
+      "date": "١٧–١٨ نوفمبر",
+      "title": "قمة أعمال APEC في شنتشن",
+      "source": "https://english.cctv.cn/2026/09/11/ARTIeyBwY8aSuF7ZEsweDjvU260911.shtml"
+    },
+    {
+      "date": "١٨–١٩ نوفمبر",
+      "title": "قمة قادة APEC في شنتشن",
+      "source": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
     }
   ]
 }
