@@ -1,178 +1,79 @@
 {
-  "date": "الثلاثاء 10 نوفمبر 2026",
-  "dateISO": "2026-11-10",
-  "updated": "10 نوفمبر 2026 · صباحًا بتوقيت الرياض",
+  "date": "الأربعاء ١١ نوفمبر ٢٠٢٦",
+  "dateISO": "2026-11-11",
+  "updated": "١١ نوفمبر ٢٠٢٦ · بتوقيت السعودية",
+  "news": [
+    {
+      "category": "السعودية",
+      "title": "اعتراض صواريخ ومسيرة استهدفت مناطق في المملكة",
+      "summary": "أعلن التحالف اعتراض صواريخ باتجاه الرياض وجنوب المملكة، ومسيرة شرقي البلاد، ورفع التنبيهات بعد ذلك.",
+      "source": "رويترز · ١٠ نوفمبر",
+      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+    },
+    {
+      "category": "التقنية والاقتصاد",
+      "title": "TSMC تقر استثمارات تصل إلى مليار دولار في شركتي ذكاء اصطناعي",
+      "summary": "وافق مجلس إدارة الشركة على استثمارات محتملة تصل إلى ٥٠٠ مليون دولار لكل من OpenAI وAnthropic، وسط استمرار الطلب على رقائق الذكاء الاصطناعي.",
+      "source": "رويترز · ١٠ نوفمبر",
+      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
+    },
+    {
+      "category": "السعودية",
+      "title": "نائب أمير الرياض يتفقد مبنى أرامكو المتضرر",
+      "summary": "زيارة تفقدية بعد تعرض مبنى إداري لأضرار، مع عدم تسجيل إصابات بحسب البيانات الرسمية.",
+      "source": "رويترز",
+      "url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/"
+    },
+    {
+      "category": "الاقتصاد",
+      "title": "الأسهم الخليجية تغلق على ارتفاع وسط ترقب التطورات الإقليمية",
+      "summary": "ارتفع المؤشر السعودي ٠٫٦٪ في تداولات الثلاثاء، مع مكاسب في أسهم البنوك.",
+      "source": "رويترز",
+      "url": "https://www.reuters.com/world/middle-east/gulf-bourses-open-higher-trump-holds-off-iran-strikes-2026-11-10/"
+    },
+    {
+      "category": "العالم والطاقة",
+      "title": "استمرار الهجمات على ناقلات النفط في المنطقة",
+      "summary": "تقارير عن هجمات جديدة على سفن ومنشآت طاقة رغم إشارات إلى احتمال تهدئة التوترات.",
+      "source": "رويترز",
+      "url": "https://www.reuters.com/business/energy/tankers-continue-burn-middle-east-despite-hopes-de-escalation-2026-11-10/"
+    },
+    {
+      "category": "التقنية",
+      "title": "توسع استثمارات الرقائق المرتبطة بالذكاء الاصطناعي",
+      "summary": "تؤكد تحركات الشركات المصنعة للرقائق استمرار الطلب على البنية التحتية الحاسوبية، مع مخاطر تتعلق بالطاقة والطاقة الإنتاجية.",
+      "source": "رويترز",
+      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
+    }
+  ],
   "matches": [
     {
       "time": "20:45",
       "league": "دوري أبطال أوروبا للسيدات",
-      "home": "هاكن للسيدات",
-      "away": "تشيلسي للسيدات",
-      "homeAr": "هاكن للسيدات",
-      "awayAr": "تشيلسي للسيدات",
-      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
-    },
-    {
-      "time": "20:45",
-      "league": "دوري أبطال أوروبا للسيدات",
-      "home": "ريال مدريد للسيدات",
-      "away": "باريس إف سي للسيدات",
-      "homeAr": "ريال مدريد للسيدات",
-      "awayAr": "باريس إف سي للسيدات",
-      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "بارنت",
-      "away": "ليتون أورينت",
-      "homeAr": "بارنت",
-      "awayAr": "ليتون أورينت",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "بريستول روفرز",
-      "away": "ريدينغ",
-      "homeAr": "بريستول روفرز",
-      "awayAr": "ريدينغ",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "بيرتون ألبيون",
-      "away": "نوتس كاونتي",
-      "homeAr": "بيرتون ألبيون",
-      "awayAr": "نوتس كاونتي",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "كرو ألكسندرا",
-      "away": "ويغان",
-      "homeAr": "كرو ألكسندرا",
-      "awayAr": "ويغان",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "غريمسبي تاون",
-      "away": "نوتنغهام فورست تحت 21",
-      "homeAr": "غريمسبي تاون",
-      "awayAr": "نوتنغهام فورست تحت 21",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "هدرسفيلد",
-      "away": "ليفربول تحت 21",
-      "homeAr": "هدرسفيلد",
-      "awayAr": "ليفربول تحت 21",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
-    },
-    {
-      "time": "22:00",
-      "league": "كأس رابطة الأندية الإنجليزية EFL Trophy",
-      "home": "ليستر سيتي",
-      "away": "والسال",
-      "homeAr": "ليستر سيتي",
-      "awayAr": "والسال",
-      "source": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/"
+      "home": "أو إتش لوفين للسيدات",
+      "away": "إتش بي كوجه للسيدات",
+      "source": "https://www.uefa.com/womenschampionsleague/clubs/2601983--oh-leuven/matches/"
     },
     {
       "time": "23:00",
       "league": "دوري أبطال أوروبا للسيدات",
-      "home": "إنتر للسيدات",
-      "away": "مانشستر سيتي للسيدات",
-      "homeAr": "إنتر للسيدات",
-      "awayAr": "مانشستر سيتي للسيدات",
-      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
+      "home": "يوفنتوس للسيدات",
+      "away": "ليون للسيدات",
+      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
     },
     {
       "time": "23:00",
       "league": "دوري أبطال أوروبا للسيدات",
-      "home": "باريس سان جيرمان للسيدات",
-      "away": "بايرن ميونخ للسيدات",
-      "homeAr": "باريس سان جيرمان للسيدات",
-      "awayAr": "بايرن ميونخ للسيدات",
-      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
-    },
-    {
-      "time": "23:00",
-      "league": "دوري أبطال أوروبا للسيدات",
-      "home": "روما للسيدات",
-      "away": "سيرفيت للسيدات",
-      "homeAr": "روما للسيدات",
-      "awayAr": "سيرفيت للسيدات",
-      "source": "https://www.skysports.com/football-scores-fixtures/2026-11-10"
-    }
-  ],
-  "news": [
-    {
-      "category": "السعودية",
-      "title": "التحالف يعلن اعتراض صاروخين باتجاه الرياض",
-      "summary": "قال التحالف إنه اعترض صاروخًا باليستيًا وآخر مجنحًا أُطلقا باتجاه العاصمة، بعد تنبيهات من الدفاع المدني.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
-    },
-    {
-      "category": "السعودية",
-      "title": "تفقد مبنى أرامكو المتضرر في الرياض",
-      "summary": "نائب أمير منطقة الرياض تفقد مبنى إداريًا متضررًا؛ وأُعلن عن أضرار محدودة دون إصابات.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/"
-    },
-    {
-      "category": "الطاقة",
-      "title": "حريق محدود بخط أنابيب شرق–غرب دون توقف التشغيل",
-      "summary": "أُخمد حريق بعد هجوم في منطقة المدينة؛ ولم تُسجل إصابات أو انقطاع في تشغيل الخط.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/business/energy/saudi-east-west-oil-pipeline-hit-medina-region-state-media-reports-2026-11-09/"
-    },
-    {
-      "category": "العالم",
-      "title": "تقارير عن تعاون عسكري سوري مع السعودية",
-      "summary": "مسؤولون تحدثوا عن إرسال مستشارين عسكريين سوريين، فيما تقول دمشق إن التعاون يركز على التدريب وتبادل الخبرات.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://apnews.com/article/d436bdc81a8e6b28bb99c417aaeaf8b6"
-    },
-    {
-      "category": "الاقتصاد",
-      "title": "صفقة يابانية بقيمة 11.6 مليار دولار بقطاع الرقائق",
-      "summary": "ميتسوي للكيماويات تعتزم شراء JSR لتعزيز أعمال مواد أشباه الموصلات.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/"
-    },
-    {
-      "category": "التقنية",
-      "title": "الصين توسع استخدام الأتمتة والذكاء الاصطناعي في الموانئ",
-      "summary": "بكين تستثمر في أنظمة الموانئ الذكية، وسط تساؤلات دولية عن أمن البيانات وسلاسل الإمداد.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/"
-    },
-    {
-      "category": "التقنية",
-      "title": "طفرة مراكز بيانات الذكاء الاصطناعي ترفع الطلب على توربينات مستعملة",
-      "summary": "مشغلو مراكز البيانات يبحثون عن حلول توليد طاقة بديلة وسط طول فترات انتظار المعدات الجديدة.",
-      "source": "رويترز / مصدر الخبر",
-      "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
+      "home": "بنفيكا للسيدات",
+      "away": "أوستريا فيينا للسيدات",
+      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
     }
   ],
   "events": [
     {
-      "date": "٩–٢٠ نوفمبر",
-      "title": "مؤتمر المناخ COP31 في أنطاليا",
-      "source": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
-    },
-    {
-      "date": "١٧–١٨ نوفمبر",
-      "title": "قمة أعمال APEC في شنتشن",
-      "source": "https://english.cctv.cn/2026/09/11/ARTIeyBwY8aSuF7ZEsweDjvU260911.shtml"
+      "date": "١١ نوفمبر",
+      "title": "مباريات الجولة الرابعة من دوري أبطال أوروبا للسيدات",
+      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
     },
     {
       "date": "١٨–١٩ نوفمبر",
