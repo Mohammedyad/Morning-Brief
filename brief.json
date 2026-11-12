@@ -1,84 +1,126 @@
 {
-  "date": "الأربعاء ١١ نوفمبر ٢٠٢٦",
-  "dateISO": "2026-11-11",
-  "updated": "١١ نوفمبر ٢٠٢٦ · بتوقيت السعودية",
+  "date": "الخميس ١٢ نوفمبر ٢٠٢٦",
+  "dateISO": "2026-11-12",
+  "updated": "١٢ نوفمبر ٢٠٢٦ · بتوقيت السعودية",
   "news": [
     {
       "category": "السعودية",
-      "title": "اعتراض صواريخ ومسيرة استهدفت مناطق في المملكة",
-      "summary": "أعلن التحالف اعتراض صواريخ باتجاه الرياض وجنوب المملكة، ومسيرة شرقي البلاد، ورفع التنبيهات بعد ذلك.",
-      "source": "رويترز · ١٠ نوفمبر",
-      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
-    },
-    {
-      "category": "التقنية والاقتصاد",
-      "title": "TSMC تقر استثمارات تصل إلى مليار دولار في شركتي ذكاء اصطناعي",
-      "summary": "وافق مجلس إدارة الشركة على استثمارات محتملة تصل إلى ٥٠٠ مليون دولار لكل من OpenAI وAnthropic، وسط استمرار الطلب على رقائق الذكاء الاصطناعي.",
-      "source": "رويترز · ١٠ نوفمبر",
-      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
-    },
-    {
-      "category": "السعودية",
-      "title": "نائب أمير الرياض يتفقد مبنى أرامكو المتضرر",
-      "summary": "زيارة تفقدية بعد تعرض مبنى إداري لأضرار، مع عدم تسجيل إصابات بحسب البيانات الرسمية.",
-      "source": "رويترز",
-      "url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/"
-    },
-    {
-      "category": "الاقتصاد",
-      "title": "الأسهم الخليجية تغلق على ارتفاع وسط ترقب التطورات الإقليمية",
-      "summary": "ارتفع المؤشر السعودي ٠٫٦٪ في تداولات الثلاثاء، مع مكاسب في أسهم البنوك.",
-      "source": "رويترز",
-      "url": "https://www.reuters.com/world/middle-east/gulf-bourses-open-higher-trump-holds-off-iran-strikes-2026-11-10/"
-    },
-    {
-      "category": "العالم والطاقة",
-      "title": "استمرار الهجمات على ناقلات النفط في المنطقة",
-      "summary": "تقارير عن هجمات جديدة على سفن ومنشآت طاقة رغم إشارات إلى احتمال تهدئة التوترات.",
-      "source": "رويترز",
-      "url": "https://www.reuters.com/business/energy/tankers-continue-burn-middle-east-despite-hopes-de-escalation-2026-11-10/"
+      "title": "اعتراض صواريخ وسقوط شظايا في منطقة مكة",
+      "summary": "أفادت السلطات بسقوط شظايا في موقعين بمنطقة مكة بعد اعتراض صاروخين.",
+      "source": "رويترز · ١٢ نوفمبر",
+      "url": "https://www.reuters.com/world/middle-east/saudi-arabia-says-debris-intercepted-missiles-falls-mecca-region-2026-11-12/"
     },
     {
       "category": "التقنية",
-      "title": "توسع استثمارات الرقائق المرتبطة بالذكاء الاصطناعي",
-      "summary": "تؤكد تحركات الشركات المصنعة للرقائق استمرار الطلب على البنية التحتية الحاسوبية، مع مخاطر تتعلق بالطاقة والطاقة الإنتاجية.",
-      "source": "رويترز",
-      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
+      "title": "شركة بريطانية لرقائق الذكاء الاصطناعي تصل قيمتها إلى ٧ مليارات دولار",
+      "summary": "جمعت Fractile تمويلاً بقيمة ٧٢٠ مليون دولار لتطوير رقائق استدلال الذكاء الاصطناعي.",
+      "source": "رويترز · ١١ نوفمبر",
+      "url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/"
+    },
+    {
+      "category": "السعودية",
+      "title": "اعتراض هجمات صاروخية وطائرات مسيّرة وسط التصعيد الإقليمي",
+      "summary": "أعلنت السعودية اعتراض عدة مقذوفات، بينما نفى الحوثيون استهداف مكة.",
+      "source": "رويترز · ١١ نوفمبر",
+      "url": "https://www.reuters.com/world/middle-east/saudi-air-defences-intercept-three-houthi-cruise-missiles-launched-toward-riyadh-2026-11-11/"
+    },
+    {
+      "category": "الاقتصاد",
+      "title": "اضطراب تجارة البحر الأسود يدفع روسيا إلى تخزين الحبوب بأكياس ضخمة",
+      "summary": "أدت صعوبات التصدير إلى زيادة الاعتماد على وسائل تخزين بديلة للمحاصيل.",
+      "source": "رويترز · ١١ نوفمبر",
+      "url": "https://www.reuters.com/business/russia-turns-giant-plastic-bags-store-unexported-grain-black-sea-trade-stalls-2026-11-11/"
+    },
+    {
+      "category": "الاقتصاد والتقنية",
+      "title": "إلغاء طلبات معدات لمراكز بيانات يثير أسئلة عن طفرة الذكاء الاصطناعي",
+      "summary": "تحليل يناقش دلالات تراجع بعض طلبات البنية التحتية على استثمارات القطاع.",
+      "source": "رويترز Breakingviews · ١١ نوفمبر",
+      "url": "https://www.reuters.com/commentary/breakingviews/softbanks-turbine-snafu-spins-ai-trade-around-2026-11-11/"
+    },
+    {
+      "category": "السعودية والتقنية",
+      "title": "محادثات استحواذ محتملة على Unity بمشاركة صندوق الاستثمارات العامة",
+      "summary": "أفادت مصادر بمحادثات مع Silver Lake دون إعلان صفقة نهائية.",
+      "source": "رويترز · ٥ نوفمبر",
+      "url": "https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/"
     }
   ],
   "matches": [
     {
-      "time": "20:45",
-      "league": "دوري أبطال أوروبا للسيدات",
-      "home": "أو إتش لوفين للسيدات",
-      "away": "إتش بي كوجه للسيدات",
-      "source": "https://www.uefa.com/womenschampionsleague/clubs/2601983--oh-leuven/matches/"
+      "time": "20:00",
+      "home": "تركيا",
+      "away": "بلجيكا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
     },
     {
-      "time": "23:00",
-      "league": "دوري أبطال أوروبا للسيدات",
-      "home": "يوفنتوس للسيدات",
-      "away": "ليون للسيدات",
-      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
+      "time": "20:00",
+      "home": "أرمينيا",
+      "away": "قبرص",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
     },
     {
-      "time": "23:00",
+      "time": "21:45",
+      "home": "برشلونة للسيدات",
+      "away": "أرسنال للسيدات",
       "league": "دوري أبطال أوروبا للسيدات",
-      "home": "بنفيكا للسيدات",
-      "away": "أوستريا فيينا للسيدات",
-      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "إنجلترا",
+      "away": "كرواتيا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "إيطاليا",
+      "away": "فرنسا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "التشيك",
+      "away": "إسبانيا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "ألبانيا",
+      "away": "فنلندا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "الجبل الأسود",
+      "away": "لاتفيا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
+    },
+    {
+      "time": "22:45",
+      "home": "سان مارينو",
+      "away": "بيلاروسيا",
+      "league": "دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
     }
   ],
   "events": [
     {
-      "date": "١١ نوفمبر",
-      "title": "مباريات الجولة الرابعة من دوري أبطال أوروبا للسيدات",
-      "source": "https://www.uefa.com/womenschampionsleague/news/02a9-2184a4a3a3d8-3d2bf80e5c0e-1000--women-s-champions-league-2026-27-league-phase-fixtures-and/"
+      "date": "١٢ نوفمبر · ٨:٠٠ مساءً",
+      "title": "تركيا × بلجيكا — دوري الأمم الأوروبية",
+      "source": "https://www.theguardian.com/football/fixtures/2026/Nov/12"
     },
     {
-      "date": "١٨–١٩ نوفمبر",
-      "title": "قمة قادة APEC في شنتشن",
-      "source": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
+      "date": "١٣ نوفمبر · ٥:٣٠ مساءً",
+      "title": "السعودية × كوريا الجنوبية — مباراة ودية",
+      "source": "https://www.skysports.com/internationals-scores-fixtures"
     }
   ]
 }
